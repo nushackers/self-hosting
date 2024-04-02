@@ -30,7 +30,7 @@ layout: center
 # Slides
 Thanks to zhongfu for the initial iteration!
 
-[https://nushackers.github.io/hackertools_materials/self-hosting](https://nushackers.github.io/hackertools_materials/self-hosting)
+[https://nushackers.github.io/self-hosting](https://nushackers.github.io/self-hosting)
 
 <img src="/slides_link.png" class="m-10 h-60" />
 
